@@ -1,2 +1,2 @@
-# various
-Various short (mostly unfinished) projects
+# Jane Street problems
+Solutions to [Jane Street puzzles](https://www.janestreet.com/puzzles/)
